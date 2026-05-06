@@ -5,7 +5,6 @@
 
 <br>
 
-👋 Hi there! I'm Misfah ✨
 
 ---
 
