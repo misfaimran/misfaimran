@@ -1,4 +1,4 @@
-👋 Hi there! I'm Misfah ✨
+👋 Hi there! I'm Misfah Miranda ✨
 <!-- Header Image -->
 <img width="1238" height="396" alt="rabbit" src="https://github.com/user-attachments/assets/c8ad601f-f9a6-44d7-9b01-d13b2c17ccb6" />
 
