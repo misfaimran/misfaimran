@@ -3,8 +3,6 @@ Hi I'm Misfah Miranda👋
 
 
 <br>
----
-
 ### 🌸 Tentang Saya
 - ✈️ Mantan Pramugari yang beralih menjadi pemrogram 💻
 - 🩸 Mahasiswa Sistem Informasi
