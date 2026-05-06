@@ -1,4 +1,5 @@
-<img width="400" height="400" alt="kelinci.jpg" src="https://github.com/user-attachments/assets/b3b1816b-ac07-4d0c-85f0-890266441a06" />
+<img width="1238" height="396" alt="Pink Watercolor Background LinkedIn Banner" src="https://github.com/user-attachments/assets/7f1f1c8c-8d01-44e2-aa65-361fc57e2247" />
+
 ### 🌸 About Me
 
 * ✈️ Former Flight Attendant transitioning into programmer 💻
