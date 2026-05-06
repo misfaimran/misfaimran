@@ -3,9 +3,6 @@ Hi I'm Misfah Miranda👋
 
 
 <br>
-
-💖 Cute girl who codes & dreams big✨
-
 ---
 
 ### 🌸 Tentang Saya
